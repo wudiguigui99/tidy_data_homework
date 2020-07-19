@@ -1,0 +1,6 @@
+This is the homework for tidy_data
+1, load all the ori files
+2, rename the colnames
+3. extract the mean and std
+4. tidy all the colnames
+5. create a new data save the tidy_data
